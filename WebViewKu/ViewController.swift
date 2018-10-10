@@ -4,7 +4,8 @@
 //
 //  Created by hint on 09/08/18.
 //  Copyright © 2018 SlametRiyadi. All rights reserved.
-//
+//pa kabs
+//terima kasih atas perhatian dan kesempatanya
 
 import UIKit
 import WebKit
